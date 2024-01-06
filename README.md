@@ -1,2 +1,2 @@
 # CheXpert-Multilabel-Model
-Code to create and train a deep learning model to predict multiple (multilabel) abnormalities and diagnoses from 14 different categories. Uses transfer learning building on architecture of ResNet50 Model. 
+Code to create and train a deep learning model to predict multiple (multilabel) abnormalities and diagnoses from 14 different categories. Applied transfer learning with ResNet50 architecture to enhance the performance of my classifier, leveraging pre-trained weights on the CheXpert dataset for improved accuracy in irregularity diagnosis. Also plots loss per epoch to analyze model accuracy during training.
